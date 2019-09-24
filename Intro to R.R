@@ -1,9 +1,9 @@
-# R script to accopany Intro to R
-# Copy for RStudent 2019
-######################################################
-
-# You will see that you can put non-executable "comment" lines
-# in your script by putting "#" at the beginning of the lines.
+# R script to accompany Intro to R
 # 
-# In fact, you can put comments anywhere on a line as long as 
-# you put "#" before them.
+# Written Jake Stafford
+
+# Copy for Jake Stafford
+# 
+# Customized by Jake Stafford
+#####################################################
+
